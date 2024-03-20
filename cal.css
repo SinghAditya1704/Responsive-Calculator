@@ -1,0 +1,43 @@
+
+html, body {
+  height: 100%;
+  width: 100%;
+  margin-left: 300px;
+  overflow: hidden;
+}
+table{
+    border: 2px solid black;
+}
+.one{
+  border: 1px solid black;
+  width: 300px;
+  padding: 10px;
+  background-color:black;
+  margin-top: 100px;
+}
+
+.button{
+  width: 66px;
+  padding: 20px;
+  margin: 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+   background-color: orange;
+}
+
+.row{
+  margin: 8px 0;
+}
+.row input{
+  width: 291px;
+  font-size: 50px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+button:hover{
+  background-color: white;
+
+}
